@@ -1,0 +1,13 @@
+/* the page background */
+html {
+    background-color: violet;
+}
+/* the head2 background */
+h2 {background-color: blue;
+
+}
+/* the hover pseudoclass to change its background */
+h2:hover {background-color: blueviolet;
+
+color: white;
+}
