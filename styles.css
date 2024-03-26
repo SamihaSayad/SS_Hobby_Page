@@ -11,3 +11,19 @@ h2:hover {background-color: blueviolet;
 
 color: white;
 }
+/* Styling for list items */
+  li {
+    padding: 10px;
+    background-color: #101d8f;
+    margin-bottom: 5px;
+  }
+
+  /* Styling for the first list item */
+  li:first-child {
+    background-color: #101d8f;
+  }
+
+  /* Styling for every second list item */
+  li:nth-child(2n) {
+    background-color: #2089b3;
+  }
